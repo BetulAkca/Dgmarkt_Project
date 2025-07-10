@@ -1,5 +1,4 @@
  dgMarkt Automation Project - BDD Framework With Cucumber
-- Codes and Tests Prepared By: euroTech Study SDET Course Batch13 Students
 - This Sprint's name is Fox which will be automation. Our PO Fatih Tosun, SM Ayşe Akkoca and Team Lead Emre Varlı. We will use Java Programming Language, IntelliJ as IDE, Maven as build management tool, Jira as Project Management Tool, Git as Version Control System and GitHub as Remote Repository. We will test 20 USs in this Sprint, our team lead will build our framework which will be Cucumber, JUnit, Maven, BDD, DDF, Page Object Model Design Pattern. First, we will test every function manually, then If there is a bug in a test case, we will create a Bug Report and will NOT write any test code for unfixed bugs. But if there is NO bug we will write our automation code.
   
  TEAM / Bug Hunters:
